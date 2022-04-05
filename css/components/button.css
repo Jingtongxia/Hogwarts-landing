@@ -1,0 +1,12 @@
+.button{
+	background-image: url(../../images/parchment.jpg);
+	padding: 15px 20px;
+	margin-top: 30px;
+	border-radius: 8px;
+	font-weight: lighter;
+	font-family: 'Send Flowers', cursive;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
+}
